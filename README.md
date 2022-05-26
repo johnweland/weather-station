@@ -2,7 +2,9 @@
 Because I don't have a more creative name for it.
 
 ## The Idea
-The idea is not novel; create a DIY weather station using a micro controller some sensors and a 3D printed housing. The difference however is that once it is working. It should work completely off grid and the data should be parsed in to JSON or some other notation and transmitted over LoRa. So the weather station could be set in a backyard, community garden, or out in the middle of a field and not require any utilities within a few kilometers. 
+The idea is not novel; create a DIY weather station using a micro controller some sensors and a 3D printed housing. The difference however is that once it is working. It should work completely off grid and the data should be parsed in to JSON or some other notation and transmitted over LoRa. So the weather station could be set in a backyard, community garden, or out in the middle of a field and not require any utilities within a few kilometers.
+
+I thought this would be neat for a project to take on myself, but I would love for this is be the go-to repo for someone who wants to spend a few bucks on some sensors, has a 3D printer and just wants to build something instead of having to code it all from scratch.
 
 I have made up my mind on what sort of data I would like to collect to start and have already purchased, or built most of the parts. I am open to suggestions on what other types of data would be handy to have. (seismic data perhaps)
 
